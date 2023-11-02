@@ -1,0 +1,8 @@
+{
+  "name": "ID Reader demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "bda16e1f"
+}
